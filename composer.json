@@ -1,0 +1,22 @@
+{
+    "name": "ange-arsene/web_solutions",
+    "description": "",
+    "type": "project",
+    "autoload": {
+        "files": [
+            "./app/core/utilities/debug.php",
+            "./app/core/utilities/helpers.php"
+        ],
+        "psr-4": {
+            "application\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ange Arsene",
+            "email": "nkenmandenga@gmail.com"
+        }
+    ],
+    "minimum-stability": "prod",
+    "require": {}
+}
