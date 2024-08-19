@@ -1,4 +1,4 @@
-# Ange Arsene's Web Solutions
+i7# Ange Arsene's Web Solutions
 
 Welcome to the repository for **Ange Arsene's Web Solutions**, a portfolio website dedicated to showcasing the skills and services of a Core PHP Developer.
 
@@ -40,6 +40,4 @@ To run this project locally:
    ```bash
    php -t public -S 127.0.0.1:8000
 
-4. Access the project via your web browser.
-   ```bash
-   php -t public -S 127.0.0.1:8000
+4. Access the project via your web browser at http://127.0.0.1:8000
